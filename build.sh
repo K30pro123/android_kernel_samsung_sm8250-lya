@@ -1,6 +1,6 @@
 @@ -0,0 +1,92 @@
 #!/bin/sh
-
+set -e
 build_kernel() {
     echo "-----------------------------------------------"
     echo "Beginning kernel compilation..."
